@@ -3,9 +3,10 @@
 	margin:0;
 	padding:0;
 }
-h2{
+h1{
 	font-family:cursive;
 	margin:16px;
+	text-align:center;
 }
 .title{
 	font-family:cursive;
