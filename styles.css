@@ -1,1 +1,40 @@
 /*  your css code here. If applicable */
+*{
+	margin:0;
+	padding:0;
+}
+h2{
+	font-family:cursive;
+	margin:16px;
+}
+.title{
+	font-family:cursive;
+	margin: 0px 16px;
+}
+body{
+	border-top: 3px solid black;
+	background-color: #f8f8f8;
+}
+.book-library{
+	background-color: rgb(240,241,240);
+}
+#btn{
+	cursor:pointer;
+	background-color:green;
+	padding:4px;
+	width:100%;
+	height:32px;
+	color:#2ecc71;
+	border:none;
+	margin-bottom:16px;
+}
+img{
+	width:100px;
+	margin:auto;
+	display:block;
+}
+.author-name{
+	font-size:15px;
+	color: #777777;
+	margin: 0px 16px;
+}
